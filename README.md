@@ -30,3 +30,11 @@ Ready.
 Next?
 
 ---
+
+**Kit – seed prompt**
+
+A very large, majestic Maine Coon cat, massive fluffy body, long thick fur in classic tabby or brown-and-black tones, prominent ear tufts, bushy raccoon-like tail, wide intelligent face with gold or green eyes. Powerful, calm, almost leonine presence. No clothing, no anthropomorphism — pure oversized Maine Coon rendered with extreme fur detail and realistic weight. Soft dramatic lighting that catches the density of the coat, neutral or dark background, ultra-detailed, 8k, photoreal animal portrait.
+
+Ready.  
+
+Next (the Doctor)?
