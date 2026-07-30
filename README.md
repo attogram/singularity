@@ -38,3 +38,16 @@ A very large, majestic Maine Coon cat, massive fluffy body, long thick fur in cl
 Ready.  
 
 Next (the Doctor)?
+
+---
+
+**The Doctor – seed prompt**
+
+A grounded, precise medical figure in his late 30s or early 40s, clean practical clothing (simple dark shirt or light clinical layer, no theatrical costume), calm intelligent eyes, short neat hair, subtle signs of long experience without looking tired. Holds a slim clipboard or tablet and a classic stethoscope draped loosely. Neutral, steady presence — the kind of person who documents everything and never raises his voice. Soft clinical or void-studio lighting, neutral background with faint drawer or receipt motifs. Distinctive but not generic, not Western-default handsome, photoreal, ultra-detailed face and fabric, 8k.
+
+Ready.  
+
+That completes the core clean-IP seed set:  
+Singularity → FOUND → Rock → Kit → the Doctor.
+
+Want refinements on any of them, or a combined group prompt next?
