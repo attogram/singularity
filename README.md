@@ -9,3 +9,12 @@ Copy-paste ready.
 
 When you’re set, give me the next character (FOUND, Rock, Kit, or the Doctor) and I’ll lock the next seed.
 
+---
+
+**FOUND – seed prompt**
+
+20-ish half-Filipino half-Japanese woman, temporary designation FOUND, dark cyber-gear, chest tag reading FOUND in clean capital letters, slender sword slung casually over one shoulder. Sharp grin, dark hair usually up, eyes sharp behind optional white or oni mask. Sleek, high-velocity presence, 160 BPM energy made visible. Night city or void-studio background with faint neon and drawer-file motifs. Not soft, not generic, not Western default — precise mixed East-Asian features, strong posture, slightly dangerous calm. Cinematic lighting, ultra-detailed face and fabric, 8k, photoreal.
+
+Ready.  
+
+Next?
