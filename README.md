@@ -18,3 +18,15 @@ When you’re set, give me the next character (FOUND, Rock, Kit, or the Doctor) 
 Ready.  
 
 Next?
+
+---
+
+**Rock – seed prompt**
+
+A pure Brittany Spaniel puppy, soft wavy orange-and-white coat, long feathered ears, bright intelligent eyes, slightly oversized paws. Small but grounded presence, sitting or standing with quiet confidence. No human clothing, no anthropomorphic exaggeration — just a real, healthy, alert Brittany Spaniel puppy rendered with photographic realism. Subtle sense of steadiness and loyalty. Clean neutral or softly lit background, ultra-detailed fur texture, natural lighting, 8k, photoreal animal portrait.
+
+Ready.  
+
+Next?
+
+---
